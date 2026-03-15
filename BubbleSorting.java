@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortingAlgo {
+public class BubbleSorting {
 
     public static void bubbleSort() 
     {
