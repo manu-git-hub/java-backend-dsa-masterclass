@@ -51,3 +51,25 @@ We focus on writing **Production-Grade Java**, prioritizing:
 * 🧪 **Test-Driven:** Every solution includes high-coverage JUnit test cases.
 * 📝 **Interview Cheat Sheets:** Curated 2026 "Must-Do" problems for FAANG/MAANG interviews.
 
+## DSA Roadmap
+Sorting algorithm - 1 (Bubble sort and Selection sort)
+Two Pointer
+Sliding Window 
+Recursion 
+Backtracking
+----------------------------------------------------------------------------
+Binary Search 
+Sorting algorithm - 2 
+Linked List 
+Binary Trees
+----------------------------------------------------------------------------
+BST/Heaps
+Hashmap
+DP1 
+----------------------------------------------------------------------------
+DP2
+Greedy 
+Graph 1 
+Graph 2 
+-----------------------------------------------------------------------------
+
